@@ -1,0 +1,8 @@
+pillow==10.0.0  # For working with images in PIL
+opencv-python==4.8.0.74  # For OpenCV image processing
+numpy==1.24.3  # For numerical operations with images (used in OpenCV)
+pytesseract==0.3.10  # For Optical Character Recognition (OCR)
+googletrans==4.0.0-rc1  # For translation (Google Translate API)
+
+# Additional libraries
+django-widget-tweaks==1.4.12  # Optional for better form handling (if using custom forms)
